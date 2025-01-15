@@ -14,13 +14,13 @@ nav{
 
 .nav-title{
     font-weight: 800;
-    font-size: 28px;
+    font-size: 30px;
 }
 
 nav ul li a{
     text-decoration: none;
     color: rgb(38, 38, 39);
-    font-size: 20px;
+    font-size: 25px;
 }
 
 .nav-btn{
